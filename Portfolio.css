@@ -1,0 +1,16 @@
+body {
+	background-color: gray;
+	margin-left: 4px;
+	border: 12px solid maroon;
+	padding:20px;
+	padding-color: blue;
+	}
+a {
+	color: blue;
+	}
+ol, ul, li {
+	color: maroon;
+	}
+head {
+	font-size:extra-large;
+	}
